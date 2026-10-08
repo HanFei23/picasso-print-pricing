@@ -1,0 +1,13 @@
+# Licensed Artnet data: do not redistribute
+data/auction_comps.csv
+outputs/report.xlsx
+
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+~$*
+
+# All data and data-derived tables stay private
+data/*.csv
+outputs/*.csv
